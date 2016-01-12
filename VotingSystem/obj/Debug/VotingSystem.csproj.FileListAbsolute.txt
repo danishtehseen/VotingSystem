@@ -1,0 +1,25 @@
+C:\Users\Abdullah\Desktop\Danish\VotingSystem\VotingSystem\VotingSystem\bin\Debug\VotingSystem.exe.config
+C:\Users\Abdullah\Desktop\Danish\VotingSystem\VotingSystem\VotingSystem\bin\Debug\VotingSystem.exe
+C:\Users\Abdullah\Desktop\Danish\VotingSystem\VotingSystem\VotingSystem\bin\Debug\VotingSystem.pdb
+C:\Users\Abdullah\Desktop\Danish\VotingSystem\VotingSystem\VotingSystem\obj\Debug\VotingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Abdullah\Desktop\Danish\VotingSystem\VotingSystem\VotingSystem\obj\Debug\VotingSystem.Properties.Resources.resources
+C:\Users\Abdullah\Desktop\Danish\VotingSystem\VotingSystem\VotingSystem\obj\Debug\VotingSystem.csproj.GenerateResource.Cache
+C:\Users\Abdullah\Desktop\Danish\VotingSystem\VotingSystem\VotingSystem\obj\Debug\VotingSystem.exe
+C:\Users\Abdullah\Desktop\Danish\VotingSystem\VotingSystem\VotingSystem\obj\Debug\VotingSystem.pdb
+C:\Users\Abdullah\Desktop\Danish\VotingSystem\VotingSystem\VotingSystem\obj\Debug\VotingSystem.AdminPanel.resources
+C:\Users\Abdullah\Desktop\Danish\VotingSystem\VotingSystem\VotingSystem\obj\Debug\VotingSystem.frm_castVote.resources
+C:\Users\Abdullah\Desktop\Danish\VotingSystem\VotingSystem\VotingSystem\obj\Debug\VotingSystem.Results.resources
+C:\Users\Danish\Desktop\VotingSystem\VotingSystem\bin\Debug\VotingSystem.exe.config
+C:\Users\Danish\Desktop\VotingSystem\VotingSystem\obj\Debug\VotingSystem.exe
+C:\Users\Danish\Desktop\VotingSystem\VotingSystem\obj\Debug\VotingSystem.pdb
+C:\Users\Danish\Desktop\VotingSystem\VotingSystem\bin\Debug\VotingSystem.exe
+C:\Users\Danish\Desktop\VotingSystem\VotingSystem\bin\Debug\VotingSystem.pdb
+C:\Users\Danish\Desktop\VotingSystem\VotingSystem\obj\Debug\VotingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Danish\Desktop\VotingSystem\VotingSystem\obj\Debug\VotingSystem.AdminPanel.resources
+C:\Users\Danish\Desktop\VotingSystem\VotingSystem\obj\Debug\VotingSystem.frm_castVote.resources
+C:\Users\Danish\Desktop\VotingSystem\VotingSystem\obj\Debug\VotingSystem.Properties.Resources.resources
+C:\Users\Danish\Desktop\VotingSystem\VotingSystem\obj\Debug\VotingSystem.Results.resources
+C:\Users\Danish\Desktop\VotingSystem\VotingSystem\obj\Debug\VotingSystem.csproj.GenerateResource.Cache
+G:\danish\3rd semester\programs\VotingSystem\VotingSystem\bin\Debug\VotingSystem.exe.config
+G:\danish\3rd semester\programs\VotingSystem\VotingSystem\obj\Debug\VotingSystem.exe
+G:\danish\3rd semester\programs\VotingSystem\VotingSystem\obj\Debug\VotingSystem.pdb
